@@ -4,4 +4,4 @@
 
 
 ## acknowledgments
-  [Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning]([http://blog.csdn.net/guodongxiaren](https://github.com/Zhendong-Wang/ Diffusion-Policies-for-Offline-RL))
+  Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning([https://github.com/Zhendong-Wang/Diffusion-Policies-for-Offline-RL])
